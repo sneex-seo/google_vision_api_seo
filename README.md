@@ -1,7 +1,3 @@
-# google_vision_api_seo
-
-<h1>HOW-TO</h1>
-<h2> Русская версия </h2>
 Для использования скриптов нужно установить Python: https://www.python.org/
 Для удобства использую: https://code.visualstudio.com/
 Включить Google Vision API: https://cloud.google.com/vision
