@@ -1,6 +1,6 @@
-Для использования скриптов нужно установить Python: https://www.python.org/
-Для удобства использую: https://code.visualstudio.com/
-Включить Google Vision API: https://cloud.google.com/vision
+<br>Для использования скриптов нужно установить Python: https://www.python.org/</br>
+<br>Для удобства использую: https://code.visualstudio.com/</br>
+<br>Включить Google Vision API: https://cloud.google.com/vision</br>
 
 Библиотеки которые могут понадобавить, можно установить в командной строке при помощи команд:
 <ul>
