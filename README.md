@@ -17,7 +17,7 @@ Libraries that can be added can be installed on the command line using the comma
 
 
 
-
+<h1>Русское Описание</h1>
 <br>Для использования скриптов нужно установить Python: https://www.python.org/</br>
 <br>Для удобства использую: https://code.visualstudio.com/</br>
 <br>Включить Google Vision API: https://cloud.google.com/vision</br>
