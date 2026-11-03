@@ -29,7 +29,7 @@ def detect_labels_uri(uri):
 
 if __name__ == '__main__':
     # Домен сайта который проверяем
-    checked_site = 'cook.me'
+    checked_site = 'example.com'
     # Ссылки на изображения с проверямого сайта
     urls_checked_site_images = 'linksfile.txt'
     # Файл с результатами проверки

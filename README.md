@@ -1,3 +1,8 @@
+# google_vision_api_seo
+
+> [!NOTE]
+> Репозиторій в архіві. Актуальна версія: [seo-scripts/api/google-vision](https://github.com/sneex-seo/seo-scripts/tree/main/api/google-vision).
+
 <h1>EN Description</h1>
 <br> To use scripts, you need to install Python: https://www.python.org/ </br>
 <br> For convenience, I use: https://code.visualstudio.com/ </br>
@@ -32,4 +37,3 @@ Libraries that can be added can be installed on the command line using the comma
  <li>googlevisio.py - это до версии google.cloud.vision 2.0.0 </li>
  <li>googlevisio_v2.py - это под версии больше google.cloud.vision 2.0.0</li>
 </ul>
-
